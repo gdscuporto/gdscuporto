@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @gdscuporto
+- 👋 Google Developer Student Club of the University of Porto
